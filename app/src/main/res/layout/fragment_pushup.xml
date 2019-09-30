@@ -156,7 +156,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="12"
+                android:text="137"
                 android:paddingLeft="12dp"
                 android:textColor="@android:color/black"
                 android:textStyle="bold"></TextView>
@@ -169,7 +169,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="154"
+                android:text="976"
                 android:paddingLeft="12dp"
                 android:textColor="@android:color/black"
                 android:textStyle="bold"></TextView>
